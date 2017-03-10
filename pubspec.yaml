@@ -1,0 +1,6 @@
+name: hypertext_compare
+publish_to: none
+dependencies:
+  angel_multiserver: ^1.0.0
+  args: ^0.13.4
+  hypertext: ^1.0.0-alpha
